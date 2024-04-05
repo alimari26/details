@@ -114,4 +114,4 @@ Please check the `help` files for the additional modules as well:
 - `csr.ML.Evaluation`
 - `csr.Vocabulary`
 
-## Note: to continue from this point, you will need access to the COMET json and xml files. 
+## Note: to continue from this point, you will need access to the json and xml files. 
